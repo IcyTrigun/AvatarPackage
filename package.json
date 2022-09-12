@@ -1,5 +1,5 @@
 {
-  "name": "avatarpackage",
+  "name": "@IcyTrigun/avatarpackage",
   "version": "1.0.0",
   "description": "Avatars for gamification",
   "main": "index.js",
