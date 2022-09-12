@@ -1,0 +1,26 @@
+{
+  "name": "avatarpackage",
+  "version": "1.0.0",
+  "description": "Avatars for gamification",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IcyTrigun/AvatarPackage.git"
+  },
+  "keywords": [
+    "Avatar",
+    "Gamification"
+  ],
+  "author": "IcyTrigun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IcyTrigun/AvatarPackage/issues"
+  },
+  "homepage": "https://github.com/IcyTrigun/AvatarPackage#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
